@@ -153,11 +153,14 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/chapters_vector_db
+/vector_db
 
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
+/data
 
 # Pyre type checker
 .pyre/
